@@ -1,0 +1,4 @@
+# DEMO no GitHub Pages — bloqueia indexação.
+# ⚠️ Ao publicar no domínio real: liberar (Allow) e apontar sitemap.
+User-agent: *
+Disallow: /
